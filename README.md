@@ -4,6 +4,8 @@ Final project in c sharp language
 REFERENCES:
 https://www.geeksforgeeks.org/c-sharp/static-class-in-c-sharp/
 https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members
+
+https://youtube.com/shorts/RE1X1Q-XSBY?si=pCOYjs9q349wi3Js
 https://youtu.be/0u9k-kOR3KE?si=l-nlq1cZetzXTICe
 
 https://learn.microsoft.com/en-us/dotnet/api/system.console.foregroundcolor?view=net-10.0
