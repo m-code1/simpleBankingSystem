@@ -7,6 +7,7 @@ https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-st
 
 https://youtube.com/shorts/RE1X1Q-XSBY?si=pCOYjs9q349wi3Js
 https://youtu.be/0u9k-kOR3KE?si=l-nlq1cZetzXTICe
+https://youtu.be/byqyLO8sQpI?si=sDHfTsx32vfJBgoX
 
 https://learn.microsoft.com/en-us/dotnet/api/system.console.foregroundcolor?view=net-10.0
 https://www.geeksforgeeks.org/c-sharp/c-sharp-how-to-change-foreground-color-of-text-in-console/
