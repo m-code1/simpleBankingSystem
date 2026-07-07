@@ -42,7 +42,7 @@ SimpleBankingSystem is a C# console-based banking application that simulates bas
 ## Screenshots
 
 ### Main Menu
-<br>
+
 <img width="1555" height="880" alt="Screenshot 2026-07-07 205218" src="https://github.com/user-attachments/assets/185320ef-03ca-4aa1-90dc-aab628930650" />
 <img width="1522" height="798" alt="Screenshot 2026-07-07 210513" src="https://github.com/user-attachments/assets/ff5a7a1a-3fc6-4e1b-b354-8e603159a7ea" />
 <img width="1555" height="937" alt="Screenshot 2026-07-07 210645" src="https://github.com/user-attachments/assets/585ed17c-20bf-4e69-a5e0-fe92629cb81e" />
@@ -50,13 +50,15 @@ SimpleBankingSystem is a C# console-based banking application that simulates bas
 
 
 <br>
+
 ### Employee Dashboard
-<br>
+
+
 <img width="1521" height="802" alt="Screenshot 2026-07-07 210057" src="https://github.com/user-attachments/assets/8549b9cd-e2ba-4a5c-a21b-b14359b7f572" />
 
 <br>
+
 ### Customer Dashboard
-<br>
 
 <img width="1517" height="835" alt="Screenshot 2026-07-07 210249" src="https://github.com/user-attachments/assets/c3bdef73-b9d0-4920-91ce-05108a87babe" />
 
