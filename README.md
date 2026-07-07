@@ -69,7 +69,7 @@ SimpleBankingSystem is a C# console-based banking application that simulates bas
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/m-code1/SimpleBankingSystem.git
+git clone https://github.com/m-code1/simpleBankingSystem.git
 ```
 
 2. Open `SimpleBankingSystem.sln` in Visual Studio 2022.
